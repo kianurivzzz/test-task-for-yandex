@@ -3,9 +3,9 @@
 Установка:
 
 ```bash
-git clone link-to-repository
+git clone https://github.com/kianurivzzz/test-task-for-yandex
 
-cd name-repository
+cd test-task-for-yandex
 
 npm install
 
